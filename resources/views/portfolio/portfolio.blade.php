@@ -1,6 +1,6 @@
 <div class="portfolio-details">
 				<div class="section-heading text-center">
-					<h2>portfolio</h2>
+					<h2>Services</h2>
 				</div>
 				<div class="container">
 					<div class="portfolio-content">
@@ -9,29 +9,18 @@
 
 								<div class="col-sm-4">
 									<div class="item">
-										<img src="{{ asset('assets/images/portfolio/p1.jpg') }}" alt="portfolio image"/>
+										<img src="{{ asset('assets/images/portfolio/webdev.jpeg') }}" alt="portfolio image" class="img"/>
 										<div class="isotope-overlay">
 											<a href="#">
-												ui/ux design
+												Web Development
 											</a>
 										</div><!-- /.isotope-overlay -->
 									</div><!-- /.item -->
 									<div class="item">
-										<img src="{{ asset('assets/images/portfolio/p2.jpg') }}" alt="portfolio image"/>
+										<img src="{{ asset('assets/images/portfolio/api.png') }}" alt="portfolio image" class="img"/>
 										<div class="isotope-overlay">
 											<a href="#">
-												ui/ux design
-											</a>
-										</div><!-- /.isotope-overlay -->
-									</div><!-- /.item -->
-								</div><!-- /.col -->
-
-								<div class="col-sm-4">
-									<div class="item">
-										<img src="{{ asset('assets/images/portfolio/p3.jpg') }}" alt="portfolio image"/>
-										<div class="isotope-overlay">
-											<a href="#">
-												web design
+												API Development
 											</a>
 										</div><!-- /.isotope-overlay -->
 									</div><!-- /.item -->
@@ -39,15 +28,34 @@
 
 								<div class="col-sm-4">
 									<div class="item">
-										<img src="{{ asset('assets/images/portfolio/p4.jpg') }}" alt="portfolio image"/>
+										<img src="{{ asset('assets/images/portfolio/landing.png') }}" alt="portfolio image" class="img"/>
 										<div class="isotope-overlay">
 											<a href="#">
-												web development
+												Landing Page Development
 											</a>
 										</div><!-- /.isotope-overlay -->
 									</div><!-- /.item -->
 									<div class="item">
-										<img src="{{ asset('assets/images/portfolio/p5.jpg') }}" alt="portfolio image"/>
+										<img src="{{ asset('assets/images/portfolio/pc.png') }}" alt="portfolio image" class="img"/>
+										<div class="isotope-overlay">
+											<a href="#">
+												PC hardware Servicing
+											</a>
+										</div><!-- /.isotope-overlay -->
+									</div><!-- /.item -->
+								</div><!-- /.col -->
+
+								<div class="col-sm-4">
+									<div class="item">
+										<img src="{{ asset('assets/images/portfolio/mobile.jpg') }}" alt="portfolio image" class="img"/>
+										<div class="isotope-overlay">
+											<a href="#">
+												mobile development
+											</a>
+										</div><!-- /.isotope-overlay -->
+									</div><!-- /.item -->
+									<div class="item">
+										<img src="{{ asset('assets/images/portfolio/mobile.jpg') }}" alt="portfolio image" class="img"/>
 										<div class="isotope-overlay">
 											<a href="#">
 												web development

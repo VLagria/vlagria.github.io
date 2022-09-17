@@ -10,8 +10,8 @@
                         <div class="row">
                             <div class="col-md-5">
                                 <div class="experience-time text-right">
-                                    <h2>2018 - Present</h2>
-                                    <h3>creative director</h3>
+                                    <h2>2021 - Present</h2>
+                                    <h3>Web App Developer</h3>
                                 </div>
                                 <!--/.experience-time-->
                             </div>
@@ -21,9 +21,9 @@
                                     <div class="timeline-content">
                                         <h4 class="title">
                                             <span><i class="fa fa-circle" aria-hidden="true"></i></span>
-                                            hoplony tech limited
+                                            MediaOne PH Software Solutions
                                         </h4>
-                                        <h5>newyork, USA</h5>
+                                        <h5>Davao City, Philippines</h5>
                                         <p class="description">
                                             Duis aute irure dolor in reprehenderit in vol patate velit esse cillum
                                             dolore eu fugiat nulla pari. Excepteur sint occana inna tecat cupidatat non
