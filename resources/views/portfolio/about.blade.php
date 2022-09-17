@@ -7,28 +7,31 @@
 						<div class="col-sm-6">
 							<div class="single-about-txt">
 								<h3>
-									I am a Professional UI/UX Designer and Web developer. Consectetur an adipisi elita, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud.
+									I am aspiring web and software developer. I have 1 year of experience in building web and software applications. I started working 
+									as a developer in a small company.
 								</h3>
 								<p>
-									Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspi unde omnis iste natus error sit voluptatem accusantium doloremque lauda ntium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam vo luptatem quia voluptas sit aspernatur aut odit aut fugit,
+									I am outgoing, dedicated, and open-minded. I get across to people and adjust to changes with ease> 
+									I believe that a person should work on developing their professional skills an learning new things
+									all the time.
 								</p>
 								<div class="row">
 									<div class="col-sm-4">
 										<div class="single-about-add-info">
 											<h3>phone</h3>
-											<p>987-123-6547</p>
+											<p>0977-117-0727</p>
 										</div>
 									</div>
 									<div class="col-sm-4">
 										<div class="single-about-add-info">
 											<h3>email</h3>
-											<p>browny@info.com</p>
+											<p>vlagria3@gmail.com</p>
 										</div>
 									</div>
 									<div class="col-sm-4">
 										<div class="single-about-add-info">
 											<h3>website</h3>
-											<p>www.brownsine.com</p>
+											<p>www.vlagria.com</p>
 										</div>
 									</div>
 								</div>
@@ -36,7 +39,7 @@
 						</div>
 						<div class="col-sm-offset-1 col-sm-5">
 							<div class="single-about-img">
-								<img src="{{ asset('assets/images/about/profile_image.jpg') }}" alt="profile_image">
+								<img src="{{ asset('assets/images/about/profile.jpeg') }}" alt="profile_image">
 								<div class="about-list-icon">
 									<ul>
 										<li>

@@ -6,7 +6,7 @@
 
             <!-- Start Header Navigation -->
             <div class="navbar-header">
-            ß    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
                     <i class="fa fa-bars"></i>
                 </button>
                 <a class="navbar-brand" href="index.html">VINCENT</a>
