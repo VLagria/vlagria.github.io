@@ -13,9 +13,7 @@
                                     <h2>2021 - Present</h2>
                                     <h3>Web App Developer</h3>
                                 </div>
-                                <!--/.experience-time-->
                             </div>
-                            <!--/.col-->
                             <div class="col-md-offset-1 col-md-5">
                                 <div class="timeline">
                                     <div class="timeline-content">
@@ -25,19 +23,16 @@
                                         </h4>
                                         <h5>Davao City, Philippines</h5>
                                         <p class="description">
-                                            Duis aute irure dolor in reprehenderit in vol patate velit esse cillum
-                                            dolore eu fugiat nulla pari. Excepteur sint occana inna tecat cupidatat non
-                                            proident.
+                                            Develop back-end for Billing System, Functional Dashboard for IoT Project,
+                                            and real-time crane planning, lift scheduling, operation management and
+                                            reporting
+                                            system.
                                         </p>
                                     </div>
-                                    <!--/.timeline-content-->
                                 </div>
-                                <!--/.timeline-->
                             </div>
-                            <!--/.col-->
                         </div>
                     </div>
-                    <!--/.single-timeline-box-->
                 </li>
 
                 <li>
@@ -51,9 +46,7 @@
                                     </h2>
                                     <h3>Software Developer Intern</h3>
                                 </div>
-                                <!--/.experience-time-->
                             </div>
-                            <!--/.col-->
                             <div class="col-md-5">
                                 <div class="timeline">
                                     <div class="timeline-content text-right">
@@ -62,14 +55,11 @@
                                         </h4>
                                         <h5>Davao City, Philippines</h5>
                                         <p class="description">
-                                            Duis aute irure dolor in reprehenderit in vol patate velit esse cillum
-                                            dolore eu fugiat nulla pari. Excepteur sint occana inna tecat cupidatat non
-                                            proident.
+                                            Develop Pet Tracking Management System using Laravel PHP Framework,
+                                            javascript and fix report for web app billing system.
                                         </p>
                                     </div>
-                                    <!--/.timeline-content-->
                                 </div>
-                                <!--/.timeline-->
                             </div>
                             <!--/.col-->
                             <div class="col-md-offset-1 col-md-5 experience-time-main">
@@ -80,18 +70,11 @@
                                     </h2>
                                     <h3>Software Engineer Intern</h3>
                                 </div>
-                                <!--/.experience-time-->
                             </div>
-                            <!--/.col-->
                         </div>
                     </div>
-                    <!--/.single-timeline-box-->
                 </li>
-
-
             </ul>
         </div>
-        <!--.main-timeline-->
     </div>
-    <!--.experience-content-->
 </div>

@@ -161,7 +161,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ffa31a;}
 --------------------------------------*/
 .welcome-hero{
     display: flex;
-    align-items: center;    
+    align-items: center;  
     justify-content: center;
     position:relative;
     background:url(../images/about/welcome-image\ -\ Edited.png)no-repeat;
@@ -213,11 +213,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ffa31a;}
     transition: 0.3s linear;
 }
 .header-text a:hover{ box-shadow: 0 5px 20px rgba(0,0,0,.4);background:#1b1b1b;border: 1px solid #1b1b1b;}
-/*.header-text-area*/
 
-/*-------------------------------------
-        4.  About
---------------------------------------*/
 .about {padding: 50px 0 100px;}
 .about-content {padding-top: 100px;}
 /*.single-about-txt*/

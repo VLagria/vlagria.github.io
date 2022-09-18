@@ -74,15 +74,15 @@
                     <!--/.contact-adress-->
                     <div class="hm-foot-icon">
                         <ul>
-                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="https://www.facebook.com/vncntlagria/" target="_blank"><i class="fa fa-facebook"></i></a></li>
                             <!--/li-->
-                            <li><a href="#"><i class="fa fa-github"></i></a></li>
+                            <li><a href="https://github.com/VLagria" target="_blank"><i class="fa fa-github"></i></a></li>
                             <!--/li-->
-                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="https://twitter.com/LagriaVincent" target="_blank"><i class="fa fa-twitter"></i></a></li>
                             <!--/li-->
-                            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                            <li><a href="https://www.linkedin.com/in/vincent-lagria-9b06a5213/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                             <!--/li-->
-                            <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                            <li><a href="https://www.instagram.com/_itsmedogrammer/" target="_blank"><i class="fa fa-instagram"></i></a></li>
                             <!--/li-->
                         </ul>
                         <!--/ul-->
