@@ -1,6 +1,6 @@
 
         <!-- For favicon png -->
-		<link rel="shortcut icon" type="image/icon" href="assets/logo/favicon.png"/>
+		{{-- <link rel="shortcut icon" type="image/icon" href="assets/logo/favicon.png"/> --}}
        
         <!--font-awesome.min.css-->
         <link rel="stylesheet" href="{{ asset('assets/css/font-awesome.min.css') }}">
