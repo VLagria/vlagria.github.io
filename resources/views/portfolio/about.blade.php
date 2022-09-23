@@ -7,16 +7,10 @@
             <div class="col-sm-6">
                 <div class="single-about-txt">
                     <h3>
-                        I am aspiring web and software developer. I have 1 year of experience in building web and
-                        software applications. I started working
-                        as a developer in a small company.
+                        I am an aspiring web and software developer. I have 1 year of experience in building web and software applications. I started working as a developer for a small company.
                     </h3>
                     <p>
-                        I am outgoing, dedicated, and open-minded. I get across to people and adjust to changes with
-                        ease>
-                        I believe that a person should work on developing their professional skills an learning new
-                        things
-                        all the time.
+                        I am outgoing, dedicated, and open-minded. I get across to people and adjust to changes with ease. I believe that a person should work on developing their professional skills and learn new things all the time.
                     </p>
                     <div class="row">
                         <div class="col-sm-4">
@@ -46,29 +40,29 @@
                     <div class="about-list-icon">
                         <ul>
                             <li>
-                                <a href="#">
+                                <a href="https://www.facebook.com/vncntlagria/">
                                     <i class="fa fa-facebook" aria-hidden="true"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="#">
-                                    <i class="fa fa-dribbble" aria-hidden="true"></i>
+                                <a href="https://github.com/VLagria">
+                                    <i class="fa fa-github" aria-hidden="true"></i>
                                 </a>
 
                             </li>
                             <li>
-                                <a href="#">
+                                <a href="https://twitter.com/LagriaVincent" target="_blank">
                                     <i class="fa fa-twitter" aria-hidden="true"></i>
                                 </a>
 
                             </li>
                             <li>
-                                <a href="#">
+                                <a href="https://www.linkedin.com/in/vincent-lagria-9b06a5213/" target="_blank">
                                     <i class="fa fa-linkedin" aria-hidden="true"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="#">
+                                <a href="https://www.instagram.com/_itsmedogrammer/" target="_blank">
                                     <i class="fa fa-instagram" aria-hidden="true"></i>
                                 </a>
                             </li>

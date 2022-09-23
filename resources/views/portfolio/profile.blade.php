@@ -23,12 +23,12 @@
                     <div class="single-profile">
                         <div class="profile-txt">
                             <a href=""><i class="flaticon-dribbble"></i></a>
-                            <div class="profile-icon-name">dribbble</div>
+                            <div class="profile-icon-name">Sololearn</div>
                         </div>
                         <div class="single-profile-overlay">
                             <div class="profile-txt">
                                 <a href=""><i class="flaticon-dribbble"></i></a>
-                                <div class="profile-icon-name">dribbble</div>
+                                <div class="profile-icon-name">Sololearn</div>
                             </div>
                         </div>
                     </div>
@@ -37,12 +37,12 @@
                     <div class="single-profile">
                         <div class="profile-txt">
                             <a href=""><i class="flaticon-behance-logo"></i></a>
-                            <div class="profile-icon-name">behance</div>
+                            <div class="profile-icon-name">Youtube</div>
                         </div>
                         <div class="single-profile-overlay">
                             <div class="profile-txt">
                                 <a href=""><i class="flaticon-behance-logo"></i></a>
-                                <div class="profile-icon-name">behance</div>
+                                <div class="profile-icon-name">Youtube</div>
                             </div>
                         </div>
                     </div>
@@ -68,12 +68,12 @@
                     <div class="single-profile">
                         <div class="profile-txt">
                             <a href=""><i class="flaticon-flickr-website-logo-silhouette"></i></a>
-                            <div class="profile-icon-name">flickR</div>
+                            <div class="profile-icon-name">Gmail</div>
                         </div>
                         <div class="single-profile-overlay">
                             <div class="profile-txt">
                                 <a href=""><i class="flaticon-flickr-website-logo-silhouette"></i></a>
-                                <div class="profile-icon-name">flickR</div>
+                                <div class="profile-icon-name">Gmail</div>
                             </div>
                         </div>
                     </div>

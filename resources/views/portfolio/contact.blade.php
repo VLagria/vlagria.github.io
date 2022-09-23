@@ -7,40 +7,59 @@
             <div class="col-md-offset-1 col-md-5 col-sm-6">
                 <div class="single-contact-box">
                     <div class="contact-form">
-                        <form>
+                        @if (Session::has('success'))
+                            <div class="alert alert-success">
+                                {{ Session::get('success') }}
+                            </div>
+                        @endif
+                        <form method="POST" action="{{ route('sendmessage') }}">
+                            @csrf
                             <div class="row">
                                 <div class="col-sm-6 col-xs-12">
                                     <div class="form-group">
-                                        <input type="text" class="form-control" id="name" placeholder="Name*"
-                                            name="name">
+                                        <input type="text" class="form-control" id="name" name="name"
+                                            placeholder="Name*" name="name">
+                                        @if ($errors->has('name'))
+                                            <span class="text-danger">{{ $errors->first('name') }}</span>
+                                        @endif
                                     </div>
                                 </div>
                                 <div class="col-sm-6 col-xs-12">
                                     <div class="form-group">
-                                        <input type="email" class="form-control" id="email" placeholder="Email*"
-                                            name="email">
+                                        <input type="email" class="form-control" id="email" name="email"
+                                            placeholder="Email*" name="email">
+                                        @if ($errors->has('email'))
+                                            <span class="text-danger">{{ $errors->first('email') }}</span>
+                                        @endif
                                     </div>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="col-sm-12">
                                     <div class="form-group">
-                                        <input type="text" class="form-control" id="subject" placeholder="Subject"
-                                            name="subject">
+                                        <input type="text" class="form-control" id="subject" name="subject"
+                                            placeholder="Subject" name="subject">
+                                        @if ($errors->has('subject'))
+                                            <span class="text-danger">{{ $errors->first('subject') }}</span>
+                                        @endif
                                     </div>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="col-sm-12">
                                     <div class="form-group">
-                                        <textarea class="form-control" rows="8" id="comment" placeholder="Message"></textarea>
+                                        <textarea class="form-control" rows="8" id="comment" name="message" placeholder="Message"></textarea>
+                                        @if ($errors->has('message'))
+                                            <span class="text-danger">{{ $errors->first('message') }}</span>
+                                        @endif
                                     </div>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="col-sm-12">
                                     <div class="single-contact-btn">
-                                        <a class="contact-btn" href="#" role="button">submit</a>
+                                        <button type="submit" class="contact-btn">Submit</button>
+                                        {{-- <a class="contact-btn" href="#" role="button">submit</a> --}}
                                     </div>
                                 </div>
                             </div>
@@ -74,15 +93,20 @@
                     <!--/.contact-adress-->
                     <div class="hm-foot-icon">
                         <ul>
-                            <li><a href="https://www.facebook.com/vncntlagria/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="https://www.facebook.com/vncntlagria/" target="_blank"><i
+                                        class="fa fa-facebook"></i></a></li>
                             <!--/li-->
-                            <li><a href="https://github.com/VLagria" target="_blank"><i class="fa fa-github"></i></a></li>
+                            <li><a href="https://github.com/VLagria" target="_blank"><i class="fa fa-github"></i></a>
+                            </li>
                             <!--/li-->
-                            <li><a href="https://twitter.com/LagriaVincent" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="https://twitter.com/LagriaVincent" target="_blank"><i
+                                        class="fa fa-twitter"></i></a></li>
                             <!--/li-->
-                            <li><a href="https://www.linkedin.com/in/vincent-lagria-9b06a5213/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                            <li><a href="https://www.linkedin.com/in/vincent-lagria-9b06a5213/" target="_blank"><i
+                                        class="fa fa-linkedin"></i></a></li>
                             <!--/li-->
-                            <li><a href="https://www.instagram.com/_itsmedogrammer/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                            <li><a href="https://www.instagram.com/_itsmedogrammer/" target="_blank"><i
+                                        class="fa fa-instagram"></i></a></li>
                             <!--/li-->
                         </ul>
                         <!--/ul-->

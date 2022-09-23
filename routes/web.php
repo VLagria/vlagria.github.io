@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\IndexController;
+use App\Http\Controllers\ContactController;
 
 /*
 |--------------------------------------------------------------------------
@@ -19,3 +20,4 @@ Route::get('/', function () {
 });
 
 Route::get('index', [IndexController::class, 'index']);
+Route::post('sendMessage', [ContactController::class, 'sendMessage'])->name('sendmessage');
