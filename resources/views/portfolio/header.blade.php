@@ -1,4 +1,4 @@
-<div class="header-area">
+  <div class="header-area">
     <nav class="navbar navbar-default bootsnav navbar-fixed dark no-background">
 
         <div class="container">
