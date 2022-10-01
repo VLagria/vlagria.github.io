@@ -9,4 +9,8 @@ class IndexController extends Controller
     public function index(){
         return view('index');
     }
+
+    public function testAjax(){
+        return response()->json("Hello World");
+    }
 }

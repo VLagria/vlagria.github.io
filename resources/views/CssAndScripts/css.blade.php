@@ -6,7 +6,7 @@
         <link rel="stylesheet" href="{{ asset('assets/css/font-awesome.min.css') }}">
 
 		<!--flat icon css-->
-		<link rel="stylesheet" href="≈{{ asset('assets/css/font-awesome.min.css') }}">
+		<link rel="stylesheet" href="≈{{ asset('assets/css/flaticon.csss') }}">
 
 		<!--animate.css-->
         <link rel="stylesheet" href="{{ asset('assets/css/animate.css') }}">

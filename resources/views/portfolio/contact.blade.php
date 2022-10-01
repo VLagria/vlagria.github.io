@@ -7,13 +7,9 @@
             <div class="col-md-offset-1 col-md-5 col-sm-6">
                 <div class="single-contact-box">
                     <div class="contact-form">
-                        @if (Session::has('success'))
-                            <div class="alert alert-success">
-                                {{ Session::get('success') }}
-                            </div>
-                        @endif
-                        <form method="POST" action="{{ route('sendmessage') }}">
-                            @csrf
+                        <div class="alert alert-success" id="success_message" hidden>
+                        </div>
+                        <form">
                             <div class="row">
                                 <div class="col-sm-6 col-xs-12">
                                     <div class="form-group">
@@ -58,12 +54,11 @@
                             <div class="row">
                                 <div class="col-sm-12">
                                     <div class="single-contact-btn">
-                                        <button type="submit" class="contact-btn">Submit</button>
-                                        {{-- <a class="contact-btn" href="#" role="button">submit</a> --}}
+                                        <button type="button" class="contact-btn" id="contact_btn">Submit</button>
                                     </div>
                                 </div>
                             </div>
-                        </form>
+                            </form>
                     </div>
                 </div>
             </div>
