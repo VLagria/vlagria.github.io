@@ -8,6 +8,7 @@
                 <div class="single-contact-box">
                     <div class="contact-form">
                         <div class="alert alert-success" id="success_message" hidden>
+                        <div class="alert alert-danger" id="error_message" hidden></div>
                         </div>
                         <form">
                             <div class="row">
@@ -23,7 +24,7 @@
                                 <div class="col-sm-6 col-xs-12">
                                     <div class="form-group">
                                         <input type="email" class="form-control" id="email" name="email"
-                                            placeholder="Email*" name="email">
+                                            placeholder="Email*" required="email" name="email">
                                         @if ($errors->has('email'))
                                             <span class="text-danger">{{ $errors->first('email') }}</span>
                                         @endif

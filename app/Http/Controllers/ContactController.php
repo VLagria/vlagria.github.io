@@ -9,7 +9,7 @@ class ContactController extends Controller
 {
     public function sendMessage(Request $request){
 
-        $request->validate([
+        $validator = $request->validate([
             'name' => 'required',   
             'email' => 'required|email',
             'subject' => 'required',

@@ -5,7 +5,7 @@ $.ajaxSetup({
 });
 
 $('#contact_btn').on('click',function(event){
-    alert('contact');   
+    // alert('contact');   
     event.preventDefault(); 
 
     var data = {
@@ -29,6 +29,8 @@ $('#contact_btn').on('click',function(event){
             $('#comment').val("");
         },
         error: function(jqXHR, textStatus, errorThrown) {
+            $('#error_message').removeAttr('hidden');
+            $('#error_message').html(errorThrown);
             console.log('Error: ' + textStatus + ' - ' + errorThrown);
         }
     })
