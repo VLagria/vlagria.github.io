@@ -10,8 +10,8 @@
                         <div class="row">
                             <div class="col-md-5">
                                 <div class="experience-time text-right">
-                                    <h2>2021 - Present</h2>
-                                    <h3>Web App Developer</h3>
+                                    <h2>July 2021 - October 2022</h2>
+                                    <h3>Project Software Developer</h3>
                                 </div>
                             </div>
                             <div class="col-md-offset-1 col-md-5">
@@ -24,7 +24,7 @@
                                         <h5>Davao City, Philippines</h5>
                                         <p class="description">
                                             Develop back-end for Billing System, Functional Dashboard for IoT Project,
-                                            and real-time crane planning, lift scheduling, operation management and
+                                            and real-time planning, scheduling, operation management and
                                             reporting
                                             system.
                                         </p>
@@ -42,9 +42,9 @@
                                 <div class="experience-time">
                                     <h2>
                                         <span><i class="fa fa-circle" aria-hidden="true"></i></span>
-                                        June - September 2021
+                                        July - September 2021
                                     </h2>
-                                    <h3>Software Developer Intern</h3>
+                                    <h3>Project Software Developer</h3>
                                 </div>
                             </div>
                             <div class="col-md-5">
@@ -66,9 +66,9 @@
                                 <div class="experience-time">
                                     <h2>
                                         <span><i class="fa fa-circle" aria-hidden="true"></i></span>
-                                        June - September 2021
+                                        July - September 2021
                                     </h2>
-                                    <h3>Software Engineer Intern</h3>
+                                    <h3>Project Software Develope</h3>
                                 </div>
                             </div>
                         </div>

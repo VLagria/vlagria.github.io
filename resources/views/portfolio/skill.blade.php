@@ -10,16 +10,16 @@
                         <span class="progressText">laravel</span>
                         <div class="single-progress-txt">
                             <div class="progress ">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="10"
+                                <div class="progress-bar" role="progressbar" aria-valuenow="65" aria-valuemin="10"
                                     aria-valuemax="100" style="">
 
                                 </div>
                             </div>
-                            <h3>70%</h3>
+                            <h3>65%</h3>
                         </div>
                     </div>
                     <div class="barWrapper">
-                        <span class="progressText">Node JS</span>
+                        <span class="progressText">React JS</span>
                         <div class="single-progress-txt">
                             <div class="progress ">
                                 <div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="10"
@@ -34,24 +34,24 @@
                         <span class="progressText">Javascript</span>
                         <div class="single-progress-txt">
                             <div class="progress ">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="10"
+                                <div class="progress-bar" role="progressbar" aria-valuenow="65" aria-valuemin="10"
                                     aria-valuemax="100" style="">
 
                                 </div>
                             </div>
-                            <h3>70%</h3>
+                            <h3>65%</h3>
                         </div>
                     </div>
                     <div class="barWrapper">
                         <span class="progressText">Visual Basic .NET</span>
                         <div class="single-progress-txt">
                             <div class="progress ">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="10"
+                                <div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="10"
                                     aria-valuemax="100" style="">
 
                                 </div>
                             </div>
-                            <h3>55%</h3>
+                            <h3>50%</h3>
                         </div>
                     </div>
                 </div>
@@ -62,40 +62,28 @@
                         <span class="progressText">html 5</span>
                         <div class="single-progress-txt">
                             <div class="progress ">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="10"
+                                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="10"
                                     aria-valuemax="100" style="">
 
                                 </div>
                             </div>
-                            <h3>90%</h3>
+                            <h3>80%</h3>
                         </div>
                     </div>
                     <div class="barWrapper">
                         <span class="progressText">Java</span>
                         <div class="single-progress-txt">
                             <div class="progress ">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="10"
+                                <div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="10"
                                     aria-valuemax="100" style="">
 
                                 </div>
                             </div>
-                            <h3>75%</h3>
+                            <h3>50%</h3>
                         </div>
                     </div>
                     <div class="barWrapper">
                         <span class="progressText">SQL</span>
-                        <div class="single-progress-txt">
-                            <div class="progress ">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="10"
-                                    aria-valuemax="100" style="">
-
-                                </div>
-                            </div>
-                            <h3>85%</h3>
-                        </div>
-                    </div>
-                    <div class="barWrapper">
-                        <span class="progressText"> PHP</span>
                         <div class="single-progress-txt">
                             <div class="progress ">
                                 <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="10"
@@ -104,6 +92,18 @@
                                 </div>
                             </div>
                             <h3>70%</h3>
+                        </div>
+                    </div>
+                    <div class="barWrapper">
+                        <span class="progressText"> PHP</span>
+                        <div class="single-progress-txt">
+                            <div class="progress ">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="65" aria-valuemin="10"
+                                    aria-valuemax="100" style="">
+
+                                </div>
+                            </div>
+                            <h3>65%</h3>
                         </div>
                     </div>
                 </div>

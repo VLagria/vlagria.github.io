@@ -7,10 +7,11 @@ use App\Models\Contact;
 
 class ContactController extends Controller
 {
-    public function sendMessage(Request $request){
+    public function sendMessage(Request $request)
+    {
 
         $validator = $request->validate([
-            'name' => 'required',   
+            'name' => 'required',
             'email' => 'required|email',
             'subject' => 'required',
             'message' => 'required'

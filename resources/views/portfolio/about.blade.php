@@ -7,7 +7,7 @@
             <div class="col-sm-6">
                 <div class="single-about-txt">
                     <h3>
-                        I am an aspiring web and software developer. I have 1 year of experience in building web and software applications. I started working as a developer for a small company.
+                        I'm a software developer, I have 1 year of experience in building web and software applications, skilled in PHP, Laravel, Javascript, HTML, and CSS. I Integrate, maintain and develop web and software applications.
                     </h3>
                     <p>
                         I am outgoing, dedicated, and open-minded. I get across to people and adjust to changes with ease. I believe that a person should work on developing their professional skills and learn new things all the time.
