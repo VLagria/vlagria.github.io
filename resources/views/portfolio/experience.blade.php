@@ -68,7 +68,7 @@
                                         <span><i class="fa fa-circle" aria-hidden="true"></i></span>
                                         July - September 2021
                                     </h2>
-                                    <h3>Project Software Develope</h3>
+                                    <h3>Project Software Developer</h3>
                                 </div>
                             </div>
                         </div>

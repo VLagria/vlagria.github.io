@@ -11,7 +11,6 @@
             <div class="collapse navbar-collapse menu-ui-design" id="navbar-menu">
                 <ul class="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOutUp">
                 <li class=" smooth-menu active"></li>
-                    <li class="smooth-menu"><a href="#skills">About Me</a></li>
                     <li class="smooth-menu"><a href="#skills">skills</a></li>
                     <li class="smooth-menu"><a href="#experience">experience</a></li>
                     {{-- <li class="smooth-menu"><a href="#profiles">profile</a></li> --}}
