@@ -7,10 +7,10 @@
             <div class="col-sm-6">
                 <div class="single-about-txt">
                     <h3>
-                        I'm a software developer, I have 1 year of experience in building web and software applications, skilled in PHP, Laravel, Javascript, HTML, and CSS. I Integrate, maintain and develop web and software applications.
+                        Hi there! I'm a web developer with one year of experience in Laravel, JavaScript, AJAX, and jQuery. I am experienced in using Laravel to develop robust back-end applications, allowing for efficient data management and integration with front-end technologies.
                     </h3>
                     <p>
-                        I am outgoing, dedicated, and open-minded. I get across to people and adjust to changes with ease. I believe that a person should work on developing their professional skills and learn new things all the time.
+                        I am always eager to learn new technologies and to stay up-to-date with the latest trends in web development. I enjoy collaborating with others to create innovative solutions and am dedicated to delivering high-quality results that meet the needs of my clients.
                     </p>
                     <div class="row">
                         <div class="col-sm-4">
